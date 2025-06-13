@@ -18,7 +18,7 @@ Convert videos to ASCII art with various styles and effects:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/ffmpeg-scripts.git
+git clone https://github.com/Camier/ffmpeg-scripts.git
 cd ffmpeg-scripts
 ```
 
